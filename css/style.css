@@ -19,4 +19,11 @@ body {
 .bg-color-dark-warning {
   background: #f4ae42;
 }
+.bg-color-light-gray {
+  background: #f4f4f4;
+}
+.bg-color-black{
+   background: black;
+   color: white
+}
 /* Color End */ ;
