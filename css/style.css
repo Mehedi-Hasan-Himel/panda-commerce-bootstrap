@@ -5,11 +5,18 @@ body {
 }
 
 /* Color Start */
-.bg-pink-light {
-  background-color: #feeae9;
+.bg-color-light-pink {
+  background: #feeae9;
 }
 
-.bg-pink-dark {
+.bg-color-dark-pink {
   background: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
 }
-/* Color End */
+.bg-color-dark-blue {
+  background: #4547f4;
+}
+
+.bg-color-dark-warning {
+  background: #f4ae42;
+}
+/* Color End */ ;
